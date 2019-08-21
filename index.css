@@ -1,0 +1,21 @@
+ h1 {
+ text-align: center;
+ text-shadow: 2px 2px #ff0000;
+font-family:"Impact", Charcoal, sans-serif }
+h2 {
+text-align: center;
+text-shadow: 2px 2px #ff0000;
+font-family:"Impact", Charcoal, sans-serif }
+h3 {
+text-shadow: 2px 2px #ff0000;
+font-family:"Impact", Charcoal, sans-serif } 
+h4 {
+	text-shadow: 2px 2px #ff0000;
+font-family:"Impact", Charcoal, sans-serif }
+p {
+	text-shadow: 2px 2px #ff0000;
+font-family:"Impact", Charcoal, sans-serif }
+ body {
+ background-image:url("georgia-dogs.jpg");
+ background-color:red;
+ }
